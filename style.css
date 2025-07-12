@@ -1,0 +1,90 @@
+/* Write your CSS here */
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 41%;
+  height: 100vh;
+}
+.view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+}
+.yet-to-image {
+  width: 90%;
+  max-width: 460px;
+}
+.registration-description {
+  text-align: center;
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 19px;
+  line-height: 1.5;
+  margin: 0px;
+  margin-top: 45px;
+}
+.register-button {
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 400;
+  background-color: #0967d2;
+  width: 90%;
+  border-radius: 8px;
+  margin-top: 45px;
+  padding-top: 12px;
+  cursor: pointer;
+  outline: none;
+}
+.registered-img {
+  width: 80%;
+  max-width: 100px;
+}
+.registered-closed-heading {
+  color: #323f4b;
+  font-size: 25px;
+  font-family: 'roboto';
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0px;
+  margin-top: 40px;
+}
+.registration-closed-image {
+  width: 80%;
+  max-width: 393px;
+}
+.no-active {
+  color: #64748b;
+  text-align: center;
+  align-self: flex-start;
+  font-family: 'roboto';
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.75;
+  margin: 0px;
+  margin-top: 64px;
+  margin-right: 16px;
+  margin-left: 15px;
+}
+.register-description {
+  text-align: center;
+  color: #64748b;
+  font-family: 'roboto';
+  font-size: 19px;
+  line-height: 1.5;
+  margin-top: 45px;
+}
+.registrations-closed {
+  text-align: center;
+  color: #475569;
+  font-family: 'roboto';
+  font-size: 15px;
+  line-height: 1.7;
+  width: 60%;
+  margin-top: 15px;
+}
